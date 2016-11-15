@@ -1,0 +1,1 @@
+[2016-11-15 13:55:52] php.DEBUG: unlink(web/bundles/framework): No such file or directory {"type":2,"file":"/var/www/apps/sales_manago/aaa/vendor/symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php","line":178,"level":28928} []

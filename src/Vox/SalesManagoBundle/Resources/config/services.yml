@@ -1,0 +1,4 @@
+services:
+#    vox_sales_manago.example:
+#        class: Vox\SalesManagoBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

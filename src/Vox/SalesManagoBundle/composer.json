@@ -1,0 +1,22 @@
+{
+    "name" : "vox/sales-manago-bundle",
+    "description" : "Współpraca WWW z sSalesManago",
+    "type" : "library",
+    "authors" : [{
+        "name" : "Maciej Osytek",
+        "email" : "maciej.osytek@vox.pl"
+    }],
+    "minimum-stability": "dev",
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },    
+    "autoload" : {
+        "psr-0" : {
+            "Vox\\SalesManagoBundle" : "src/"
+        }
+    },
+    "target-dir" : "Vox/SalesManagoBundle"
+
+}
